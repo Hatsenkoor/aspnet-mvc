@@ -1,7 +1,6 @@
 ﻿# example-aspnet-mvc
 https://teamtreehouse.com/library/aspnet-mvc-basics
 
-![screenshot1](https://github.com/sarn1/example-aspnet-mvc/blob/master/screenshot1.png)
 ![screenshot2](https://github.com/sarn1/example-aspnet-mvc/blob/master/screenshot2.png)
 
 ### Setup ###
